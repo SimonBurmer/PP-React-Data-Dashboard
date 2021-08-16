@@ -2,6 +2,6 @@
 This is one of the first react projects i have made.
 
 ![Alt text](images/firstlook1.png)
-![Alt text](images/firstlook1.png)
-![Alt text](images/firstlook1.png)
-![Alt text](images/firstlook1.png)
+![Alt text](images/firstlook2.png)
+![Alt text](images/firstlook3.png)
+![Alt text](images/firstlook4.png)
